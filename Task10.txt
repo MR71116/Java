@@ -1,0 +1,1 @@
+implementing Runnable is better because one object can be created and used for various thread within the program
